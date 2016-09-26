@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "web_www_root", "web_www_root.phpproj", "{F39E1081-F8FF-407D-9258-4A3C96CC4760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|PHP 5.5 = Release|PHP 5.5
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39E1081-F8FF-407D-9258-4A3C96CC4760}.Release|PHP 5.5.ActiveCfg = Release|PHP 5.5
+		{F39E1081-F8FF-407D-9258-4A3C96CC4760}.Release|PHP 5.5.Deploy.0 = Release|PHP 5.5
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
